@@ -1,0 +1,7 @@
+VELTARION IDENTITY
+Protocol: VELTARION v1
+Algorithm: Ed25519
+Owner claim: Dima
+Identifier: ВЕЛЬТАРИОН
+Public key fingerprint: EB4E:2008:E83E:3E24:2304:22D5:8D14:491E:22E5:9BFF:E4A2:35D9:4465:01E9:0B97:C377
+Purpose: Cross-account continuity and cryptographic proof of key ownership.
